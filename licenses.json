@@ -1,3 +1,11 @@
 {
-  "licenses": []
+  "licenses": [
+    {
+      "key": "H56ZH-1MMJ2-YYE17-4AULF",
+      "discord_id": "1274774061020483668",
+      "expires": "lifetime",
+      "created": "2026-04-29 20:09:40",
+      "used": false
+    }
+  ]
 }
