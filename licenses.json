@@ -13,6 +13,13 @@
       "expires": "2026-05-01",
       "created": "2026-04-30 11:38:51",
       "used": false
+    },
+    {
+      "key": "M9YEJ-PLL1V-E7UOY-LION3",
+      "discord_id": "1",
+      "expires": "lifetime",
+      "created": "2026-04-30 12:31:20",
+      "used": false
     }
   ]
 }
