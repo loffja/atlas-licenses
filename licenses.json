@@ -6,6 +6,13 @@
       "expires": "lifetime",
       "created": "2026-04-29 20:09:40",
       "used": false
+    },
+    {
+      "key": "4J23R-71WSE-G6FKG-ROT2D",
+      "discord_id": null,
+      "expires": "2026-05-01",
+      "created": "2026-04-30 11:38:51",
+      "used": false
     }
   ]
 }
